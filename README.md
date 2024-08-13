@@ -3,7 +3,7 @@
 - 🌱 I’m a big fan of single page applications, and as you may expect- React. Also very interested in offline-first and progressive web applications.
 - 💞️ I’m looking to collaborate on PWAs, SPAs, and other kinds of web applications. Open source (unpaid) invites also welcome.
 - 📫 How to reach me atakpuomogbai@gmail.com; www.linkedin.com/in/omogbai-atakpu
-- 🚀 You can view some of my projects here: https://omogbai-atakpu.netlify.app/
+- 🚀 You can view some of my projects here: https://omogbaiatakpu.com/
 
 <!---
 githero20/githero20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
